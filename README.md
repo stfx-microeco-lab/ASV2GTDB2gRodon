@@ -211,7 +211,7 @@ The code is organized into six steps, following the structure outlined in the Ov
 
 ### 7.1 Grep for the organism of interest and grab ids
 
-In my case, the IDs were in the first column of the TSV file. To use a different column, change the 1 in `-f1` to the corresponding column number. An intermediate file will be created and placed in the `intermediate` file.
+In my case, the IDs were in the first column of the TSV file. To use a different column, change the 1 in `-f1` to the corresponding column number. An intermediate file will be created and placed in the `intermediate` directory.
 
 ```
 grep "$organism_of_interest" rawdata/*.tsv  | cut -f1 > intermediate/seqs_$organism_of_interest.ids
