@@ -1,0 +1,7 @@
+organism_of_interest="Arcobacter"
+perc_identity="95"
+currdir=$PWD
+gtdbDB="/home/maria/databases/GTDB_db/"
+blastDBpath="/home/maria/databases/blast-db/"
+ncbiDBpath="/home/maria/databases/NCBI/"
+BAKTAdb="/media/DataStore1_4Tb/databases/bakta-db/"
