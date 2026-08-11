@@ -6,7 +6,7 @@ Table of contents:
 2. [Overview of pipeline steps](https://github.com/stfx-microeco-lab/ASV2GTDB2gRodon#2-overview-of-pipeline-steps)
 3. [Expected output files](https://github.com/stfx-microeco-lab/ASV2GTDB2gRodon#3-expected-output-files)
 4. [Setting up conda](https://github.com/stfx-microeco-lab/ASV2GTDB2gRodon#4-setting-up-conda)
-5. [Cloning repo and adding raw data](https://github.com/stfx-microeco-lab/ASV2GTDB2gRodon#5-cloning-repo-and-adding-raw-data)
+5. [Cloning repo and adding your raw data](https://github.com/stfx-microeco-lab/ASV2GTDB2gRodon#5-cloning-repo-and-adding-your-raw-data)
 6. [Downloading tools and databases](https://github.com/stfx-microeco-lab/ASV2GTDB2gRodon#6-downloading-tools-and-databases)
 7. [Running pipeline](https://github.com/stfx-microeco-lab/ASV2GTDB2gRodon#7-running-pipeline)
 
